@@ -1,0 +1,13 @@
+*.log
+lib-cov
+coverage
+build/Release
+node_modules
+.npm
+.history
+yarn.lock
+package-lock.json
+dist
+lib
+.idea
+.vscode

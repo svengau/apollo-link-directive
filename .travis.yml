@@ -1,0 +1,20 @@
+language: node_js
+node_js:
+  - '8'
+
+script:
+  # using jest --coverage also runs the tests so this will cut down CI time
+  - npm run coverage
+
+  # run coverage and file size checks
+  - npm run coverage:upload || true #ignore failures
+    # make sure files don't get too large
+  - npm run filesize
+    # make sure there are no type errors
+  - npm run check-types
+
+# Allow Travis tests to run in containers.
+sudo: false
+
+notifications:
+  email: true
