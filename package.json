@@ -58,7 +58,7 @@
     "graphql-tag": "2.10.1",
     "jest": "23.6.0",
     "lerna": "3.18.1",
-    "lint-staged": "8.1.7",
+    "lint-staged": "8.2.1",
     "pre-commit": "1.2.2",
     "prettier": "1.15.3",
     "rimraf": "2.6.3",
