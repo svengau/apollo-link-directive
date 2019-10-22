@@ -46,7 +46,7 @@
     "@babel/core": "7.6.4",
     "@types/graphql": "14.2.3",
     "@types/jest": "24.0.19",
-    "@types/node": "12.11.1",
+    "@types/node": "12.11.2",
     "apollo-cache-inmemory": "1.6.3",
     "apollo-client": "2.6.4",
     "apollo-link": "1.2.13",
