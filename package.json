@@ -45,7 +45,7 @@
   "devDependencies": {
     "@babel/core": "7.6.4",
     "@types/graphql": "14.2.3",
-    "@types/jest": "24.0.19",
+    "@types/jest": "24.0.20",
     "@types/node": "12.11.7",
     "apollo-cache-inmemory": "1.6.3",
     "apollo-client": "2.6.4",
