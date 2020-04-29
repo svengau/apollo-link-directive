@@ -40,7 +40,7 @@
   },
   "peerDependencies": {
     "apollo-link": "1.2.13",
-    "graphql": "14.5.8"
+    "graphql": "15.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.6.4",
@@ -54,7 +54,7 @@
     "browserify": "16.5.0",
     "bundlesize": "0.18.0",
     "codecov": "3.6.1",
-    "graphql": "14.5.8",
+    "graphql": "15.0.0",
     "graphql-tag": "2.10.1",
     "jest": "24.9.0",
     "lerna": "3.18.3",
