@@ -69,7 +69,7 @@
     "rollup-plugin-sourcemaps": "0.6.2",
     "ts-jest": "26.1.1",
     "typescript": "3.9.5",
-    "uglify-js": "3.10.0"
+    "uglify-js": "3.13.9"
   },
   "resolutions": {
     "babel-core": "7.0.0-bridge.0",
