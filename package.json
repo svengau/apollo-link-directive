@@ -54,7 +54,7 @@
     "browserify": "16.5.1",
     "bundlesize": "0.18.0",
     "codecov": "3.7.0",
-    "graphql": "15.1.0",
+    "graphql": "15.8.0",
     "graphql-tag": "2.10.3",
     "jest": "26.1.0",
     "lerna": "3.22.1",
