@@ -55,7 +55,7 @@
     "bundlesize": "0.18.0",
     "codecov": "3.7.0",
     "graphql": "15.8.0",
-    "graphql-tag": "2.10.3",
+    "graphql-tag": "2.12.6",
     "jest": "26.1.0",
     "lerna": "3.22.1",
     "lint-staged": "10.2.11",
