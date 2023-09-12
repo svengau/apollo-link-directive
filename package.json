@@ -73,7 +73,7 @@
   },
   "resolutions": {
     "babel-core": "7.0.0-bridge.0",
-    "babel-jest": "23.6.0"
+    "babel-jest": "29.7.0"
   },
   "bundlesize": [
     {
